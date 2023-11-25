@@ -153,7 +153,7 @@ func main() {
 		"https://github.com/golang/go",
 	}
 
-	token := "your_personal_access_token"
+	token := "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"
 
 	// Establishing a database connection
 	connStr := fmt.Sprintf("host=%s port=%d user=%s password=%s dbname=%s sslmode=require",
